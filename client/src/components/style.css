@@ -1,0 +1,59 @@
+nav{
+  background-color: rgb(236, 242, 255);
+}
+
+a{
+    margin: 0rem 2rem;
+    text-decoration: none;
+    color: black;
+  }
+  .job{
+    /* background-color: rgb(226, 235, 239); */
+    border-radius: 1rem;
+  }
+ 
+  .featured{
+    background-color: rgb(241, 244, 245);
+    border-radius: 1rem;
+  
+  }
+  .card{
+    margin: 2rem;
+  }
+  .blue-box{
+    background-color: rgb(232, 237, 239);
+    border-radius: 1rem;
+  }
+  .blue-box img{
+    border-radius: 7rem;
+  }
+  .footer{
+    background-color: rgb(67, 66, 66);
+  }
+ 
+  /* register page */
+
+  .input{
+    width: 18rem;
+    margin: 2rem 0rem;
+    height: 3rem;
+    /* background-color: grey; */
+   
+    border-radius: 2rem;
+  }
+  .input placeholder{
+    color: red;
+  }
+
+  .form{
+    background-color: rgb(232, 237, 239);
+    
+  }
+  /* all jobs page */
+  #jobs{
+    /* background-color: aqua; */
+    border: 2px solid red;
+  }
+  #cards{
+    border: 2px solid greenyellow;
+  }
