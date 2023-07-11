@@ -22,7 +22,7 @@ export default function Homepage() {
                 <h4 className='mt-4'>5 lakh+ jobs for you to explore</h4>
               </div>
               <div className='col-sm-12 col-lg-6 m-auto text-end '>
-                <img src={job} className='img-fluid  h-75 ' />
+                <img src={job} className='img-fluid  h-50 ' />
               </div>
             </div>
           </div>
